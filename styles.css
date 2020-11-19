@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+.row {
+    width: 100%;
+}
+.box {
+    margin:10px;
+    background: #FFFFFF;
+    border: 3px solid black;
+}
+
+.PGS {
+    width: 100%;
+}
+.outlines {
+    position: absolute;
+}
+.components {
+    position: relative;
+}
+#component {
+    visibility: hidden;
+}
+#helium_tank, #helium_tank_legend, #helium_tank_description {
+    visibility: hidden;
+}
+
